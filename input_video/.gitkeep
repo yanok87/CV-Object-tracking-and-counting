@@ -1,0 +1,2 @@
+# Place your input video here (e.g. drones_swarm.mp4)
+# Update the path in main.py and pick_roi.py if the filename differs.

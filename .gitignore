@@ -1,0 +1,37 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Model weights & Ultralytics artifacts
+*.pt
+*.onnx
+*.engine
+runs/
+wandb/
+
+# Datasets & archives (large / local)
+model/Drones_Datasets/
+model/Drones_Datasets.zip
+*.zip
+
+# Videos (Shutterstock sample & generated outputs — use your own)
+input_video/*
+!input_video/.gitkeep
+output_video/*
+!output_video/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
