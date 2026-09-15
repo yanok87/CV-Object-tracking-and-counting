@@ -110,6 +110,7 @@ counted_ids = set()
 # ---------------------------------------------------------
 # STEP 9 : DEFINE ROIs & COUNTING LINES
 # ---------------------------------------------------------
+# Run: python pick_roi.py  → paste printed lists here
 roi_points = [(15, 3), (17, 714), (1261, 714), (1262, 3)]
 line_points = [(118, 2), (113, 713)]
 
