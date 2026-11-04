@@ -1,4 +1,4 @@
-# Object Tracking — Real-Time Drone Counting
+# Object Tracking — Drone Counting
 
 Learning project that detects and tracks drones in video with **YOLO**, counts them when they cross a line, and draws an ROI with **OpenCV**.
 

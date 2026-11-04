@@ -35,3 +35,6 @@ output_video/*
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Presentations
+*.pptx
